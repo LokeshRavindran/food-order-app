@@ -1,0 +1,18 @@
+#view-cart {
+  background-color: rgb(80, 25, 25);
+  display: flex;
+  border-radius: 25px;
+  align-items: center;
+  cursor: pointer;
+  color: white;
+  border: none;
+}
+#view-cart > * {
+  margin: 0.7rem 1rem;
+}
+
+#count {
+  background-color: brown;
+  padding: 0.2rem 0.5rem;
+  border-radius: 10px;
+}
